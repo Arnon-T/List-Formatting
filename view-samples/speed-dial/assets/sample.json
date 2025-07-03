@@ -1,0 +1,50 @@
+[
+  {
+    "name": "pnp-list-formatting-speed-dial",
+    "reponame": "speed-dial",
+    "source": "pnp",
+    "title": "Speed dial list",
+    "shortDescription": "Creates a speed dial for team contacts with links to call or chat.",
+    "url": "https://github.com/pnp/List-Formatting/tree/master/view-samples/speed-dial",
+    "longDescription": [
+      "This sample provides quick access to contacts via Teams call, chat, or email."
+    ],
+    "creationDateTime": "2022-06-22T00:00:00.000Z",
+    "updateDateTime": "2022-06-22T00:00:00.000Z",
+    "products": [
+      "SharePoint",
+      "Microsoft Lists"
+    ],
+    "metadata": [
+      {
+        "key": "LIST-SAMPLE-TYPE",
+        "value": "View"
+      },
+      {
+        "key": "SHAREPOINT-COMPATIBILITY",
+        "value": "SharePoint Online"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/List-Formatting/master/view-samples/speed-dial/assets/Speed%20dial%201.png",
+        "alt": "Speed dial example"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Anand Ragav",
+        "gitHubAccount": "anandvragav"
+      }
+    ],
+    "references": [
+      {
+        "name": "Format list views",
+        "description": "Documentation on using view formatting in SharePoint lists.",
+        "url": "https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting"
+      }
+    ]
+  }
+]
