@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/board-formatting.schema.json",
   "hideSelection": true,
   "formatter": {
